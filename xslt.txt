@@ -1,0 +1,9 @@
+* @select @name @match @stylesheet-prefix @href @method
+
+xsl:output @method @name
+xsl:include @href
+xsl:variable @name
+xsl:param @name
+xsl:namespace-alias @stylesheet-prefix
+xsl:template @match @name
+xsl:function @name

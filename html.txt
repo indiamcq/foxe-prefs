@@ -1,0 +1,14 @@
+* @id @lass @width
+
+# HTML
+* text() 
+p @class
+section @id
+ul @id
+td @width
+div @id @class *//a[1]
+li a text()
+* @match @name @id @mode
+YearBookData_T2  YearBook NameID
+span @class
+* LastName

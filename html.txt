@@ -1,4 +1,4 @@
-* @id @lass @width
+* @id @class @width
 
 # HTML
 * text() 
